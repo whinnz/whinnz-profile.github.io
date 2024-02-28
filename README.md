@@ -1,1 +1,1 @@
-# whinnz-profile.github.io
+# whinnz.github.io
