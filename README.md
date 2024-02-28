@@ -1,1 +1,1 @@
-# whinnz-profile.github.io
+# http(s)://whinnz.github.io/profile
